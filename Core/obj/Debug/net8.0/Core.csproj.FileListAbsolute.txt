@@ -1,0 +1,11 @@
+C:\Proyectos\Biblioteca de Libros\Core\bin\Debug\net8.0\Core.deps.json
+C:\Proyectos\Biblioteca de Libros\Core\bin\Debug\net8.0\Core.dll
+C:\Proyectos\Biblioteca de Libros\Core\bin\Debug\net8.0\Core.pdb
+C:\Proyectos\Biblioteca de Libros\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Biblioteca de Libros\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Proyectos\Biblioteca de Libros\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Proyectos\Biblioteca de Libros\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Proyectos\Biblioteca de Libros\Core\obj\Debug\net8.0\Core.dll
+C:\Proyectos\Biblioteca de Libros\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Proyectos\Biblioteca de Libros\Core\obj\Debug\net8.0\Core.pdb
+C:\Proyectos\Biblioteca de Libros\Core\obj\Debug\net8.0\ref\Core.dll
