@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\Biblioteca de Libros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFB2BD4-50C5-4957-BE29-9D52C71C0950}|WebApi\\WebApi.csproj|c:\\proyectos\\biblioteca de libros\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BFB2BD4-50C5-4957-BE29-9D52C71C0950}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|C:\\Proyectos\\Biblioteca de Libros\\infrastructure\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714ED2C-CC03-46A2-B2AB-9DF7F5FD3B3E}|Core\\Core.csproj|C:\\Proyectos\\Biblioteca de Libros\\core\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714ED2C-CC03-46A2-B2AB-9DF7F5FD3B3E}|Core\\Core.csproj|solutionrelative:core\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "WebApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T02:26:32.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\DBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DBContext.cs",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\DBContext.cs",
+              "RelativeToolTip": "Infrastructure\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:26:21.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\Core\\Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Class1.cs",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\Core\\Entities\\Class1.cs",
+              "RelativeToolTip": "Core\\Entities\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:25:44.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
