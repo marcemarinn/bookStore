@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Proyectos\\Biblioteca de Libros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4714ED2C-CC03-46A2-B2AB-9DF7F5FD3B3E}|Core\\Core.csproj|c:\\proyectos\\biblioteca de libros\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4714ED2C-CC03-46A2-B2AB-9DF7F5FD3B3E}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3BFB2BD4-50C5-4957-BE29-9D52C71C0950}|WebApi\\WebApi.csproj|c:\\proyectos\\biblioteca de libros\\webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFB2BD4-50C5-4957-BE29-9D52C71C0950}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BFB2BD4-50C5-4957-BE29-9D52C71C0950}|WebApi\\WebApi.csproj|C:\\Proyectos\\Biblioteca de Libros\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BFB2BD4-50C5-4957-BE29-9D52C71C0950}|WebApi\\WebApi.csproj|c:\\proyectos\\biblioteca de libros\\webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFB2BD4-50C5-4957-BE29-9D52C71C0950}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFB2BD4-50C5-4957-BE29-9D52C71C0950}|WebApi\\WebApi.csproj|c:\\proyectos\\biblioteca de libros\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BFB2BD4-50C5-4957-BE29-9D52C71C0950}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|c:\\proyectos\\biblioteca de libros\\infrastructure\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|c:\\proyectos\\biblioteca de libros\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|c:\\proyectos\\biblioteca de libros\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|c:\\proyectos\\biblioteca de libros\\infrastructure\\mapping\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6195264-EF9E-44A7-87A2-6EBE17224B36}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mapping\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714ED2C-CC03-46A2-B2AB-9DF7F5FD3B3E}|Core\\Core.csproj|c:\\proyectos\\biblioteca de libros\\core\\interfaces\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714ED2C-CC03-46A2-B2AB-9DF7F5FD3B3E}|Core\\Core.csproj|solutionrelative:core\\interfaces\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Core",
-              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\Core\\Core.csproj",
-              "RelativeDocumentMoniker": "Core\\Core.csproj",
-              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\Core\\Core.csproj",
-              "RelativeToolTip": "Core\\Core.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-09T01:53:15.283Z",
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\WebApi\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\WebApi\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:08:34.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T01:20:28.161Z",
+              "WhenOpened": "2024-08-10T00:47:40.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\Core\\Interfaces\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\Core\\Interfaces\\Services\\IBookService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\Services\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:45:47.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\BookService.cs",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\Services\\BookService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:37:50.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\WebApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\WebApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvw4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:31:54.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:24:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookProfile.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\Mapping\\BookProfile.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mapping\\BookProfile.cs",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\Mapping\\BookProfile.cs",
+              "RelativeToolTip": "Infrastructure\\Mapping\\BookProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:20:35.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:46:32.14Z",
               "EditorCaption": ""
             }
           ]

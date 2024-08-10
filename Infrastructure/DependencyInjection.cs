@@ -1,4 +1,8 @@
-﻿using Infrastructure.Context;
+﻿using Core.Interfaces.Repositories;
+using Core.Interfaces.Services;
+using Infrastructure.Context;
+using Infrastructure.Repositories;
+using Infrastructure.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -13,6 +17,8 @@ public static class DependencyInjection
     {
 
         services.AddDatabase(configuration);
+        services.AddRepositories();
+        services.AddServices();
         return services;
     }
 
@@ -28,5 +34,17 @@ public static class DependencyInjection
         return services;
     }
 
- 
+    public static IServiceCollection AddRepositories(this IServiceCollection services) //this, le da una funcionalidad extra 
+    {
+        services.AddScoped<IBookRepository, BookRepository>();
+        return services;
+    }
+
+    public static IServiceCollection AddServices(this IServiceCollection services) //this, le da una funcionalidad extra 
+    {
+        services.AddScoped<IBookService, BookService>();
+        return services;
+    }
+
+
 }

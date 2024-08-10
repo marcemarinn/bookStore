@@ -45,3 +45,8 @@ C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Mono.TextTemplating.dl
 C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\System.CodeDom.dll
 C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Npgsql.dll
 C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Mapster.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Mapster.Core.dll

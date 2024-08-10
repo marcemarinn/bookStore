@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "YSoXXyMpRetNcLUWW463S7iE2T3RtrlYwn53cjWN1QsAU9QAHVePSc2e/k9LHTaW7dMsRn2M+LN2HZCDhAhiKg==",
+  "dgSpecHash": "Uvx62qDzS08JeJYxAdM7R6y5RXMU3b7x7WWbLbjxqfWrjpYHu5swrXDAuA1XlB5Vw/KzZ1eyFe8I0Q6f8nHh8A==",
   "success": true,
   "projectFilePath": "C:\\Proyectos\\Biblioteca de Libros\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\march\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\march\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\march\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\march\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "C:\\Users\\march\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.20\\microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.20\\microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.20\\microsoft.entityframeworkcore.analyzers.7.0.20.nupkg.sha512",
