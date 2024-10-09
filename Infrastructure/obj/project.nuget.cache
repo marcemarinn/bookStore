@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q5na3oKQK7ncy4qvtbx3sc2Ww89aOU/Cr52wUFzC9s9xPzvB2Cq2YBDykb0Zel3rQtNYQShfM3cFvqZ5QDr0Zg==",
+  "dgSpecHash": "BewoVd+YZi4BQ+tEfP/g3dAL5u6ZbqUU41R+24WTEZDCH26YxVFrk1VbDSrOG0JcGkqDttlWbhHhN/XOm3dGRw==",
   "success": true,
   "projectFilePath": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\march\\.nuget\\packages\\npgsql\\7.0.7\\npgsql.7.0.7.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.0\\npgsql.entityframeworkcore.postgresql.7.0.0.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\march\\.nuget\\packages\\system.linq.dynamic.core\\1.4.4\\system.linq.dynamic.core.1.4.4.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],

@@ -7,6 +7,7 @@ public class Book
     public string Author { get; set; } = string.Empty;
     public DateTime PublishDate { get; set; }
     public string Gender { get; set; } = string.Empty;
+    public bool isActive { get; set; } = true;
 
 
 }

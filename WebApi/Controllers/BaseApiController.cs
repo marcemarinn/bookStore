@@ -4,7 +4,7 @@ namespace WebApi.Controllers;
 
 
 [ApiController]
-[Route("/books")]
+[Route("/")]
 public class BaseApiController : ControllerBase
 {
 }

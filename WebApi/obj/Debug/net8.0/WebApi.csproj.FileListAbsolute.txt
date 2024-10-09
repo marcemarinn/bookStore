@@ -50,3 +50,11 @@ C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\AutoMapper.dll
 C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Mapster.dll
 C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Mapster.Core.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\Biblioteca de Libros\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
