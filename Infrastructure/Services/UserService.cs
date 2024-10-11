@@ -27,7 +27,7 @@ public class UserService : IUserService
 
     public async Task<int> Register(UserDto request)
     {
-        int newUserId = await _repository.Login(request);
+        int newUserId = await _repository.Register(request);
 
         return newUserId;
     }

@@ -37,12 +37,14 @@ public static class DependencyInjection
     public static IServiceCollection AddRepositories(this IServiceCollection services) //this, le da una funcionalidad extra 
     {
         services.AddScoped<IBookRepository, BookRepository>();
+        services.AddScoped<IUserRepository, UserRepository>();
+
         return services;
     }
 
     public static IServiceCollection AddServices(this IServiceCollection services) //this, le da una funcionalidad extra 
     {
-        services.AddScoped<IBookService, BookService>();
+        services.AddScoped<IUserService, UserService>();
         return services;
     }
 
