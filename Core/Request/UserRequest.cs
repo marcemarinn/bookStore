@@ -1,8 +1,9 @@
-﻿namespace Core.Entities;
+﻿namespace Core.Request;
 
-public class User
+public class UserRequest
 {
     public int Id { get; set; }
     public string UserName { get; set; } = string.Empty;
     public string PassWordHash { get; set; } = string.Empty;
+
 }
