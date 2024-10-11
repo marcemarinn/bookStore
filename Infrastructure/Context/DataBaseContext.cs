@@ -19,12 +19,16 @@ public partial class DataBaseContext : DbContext
 
     public virtual DbSet<Book> Books { get; set; }
 
-  
+    public virtual DbSet<User> Users { get; set; }
+
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfiguration(new BookConfiguration());
-       
+        modelBuilder.ApplyConfiguration(new UserConfiguration());
+
+
         OnModelCreatingPartial(modelBuilder);
     }
 

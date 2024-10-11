@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BewoVd+YZi4BQ+tEfP/g3dAL5u6ZbqUU41R+24WTEZDCH26YxVFrk1VbDSrOG0JcGkqDttlWbhHhN/XOm3dGRw==",
+  "dgSpecHash": "iGDUGZjY3wjJy7AScyJJYdnDfjDhvQ6hN7O7T412ddR8chXk0J3em1M7SiOARrAZuwq+3OExc1UDmBumyEtpLQ==",
   "success": true,
   "projectFilePath": "C:\\Proyectos\\Biblioteca de Libros\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\march\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\march\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\march\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
